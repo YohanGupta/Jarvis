@@ -1,5 +1,8 @@
 # Jarvis
-Jarvis is a Desktop Assistant which takes voices command from user and execute without manual intervention. 
+Jarvis is a Desktop Assistant which takes voices command from user and execute without manual intervention.  
+
+# Technology Used: 
+Python and PyQt5
 # Screenshots
 ### 1.
 ![Screenshot (143)](https://user-images.githubusercontent.com/67832334/115952829-e9270480-a505-11eb-888c-3926eed82ae8.png)
